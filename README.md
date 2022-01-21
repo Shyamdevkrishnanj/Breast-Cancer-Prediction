@@ -1,6 +1,8 @@
 # Breast-Cancer-Prediction
 
-### Trying to predict  whether the  cancer is benign or malignant using LOGISTIC REGRESSION in Python
+### Trying to predict  whether the  cancer is benign or malignant using LOGISTIC REGRESSION in Python.
+
+By
 
 | **NAME** | **ROLL-NUMBER** | 
 | :--- | :---: | 
