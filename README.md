@@ -2,7 +2,7 @@
 
 ### Predicting whether cancer is benign or malignant using Logistic Regression in Python
 
-<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Members Of Team 4_1"></a>Members</h2>
+<h2 class="code-line" data-line-start=1 data-line-end=2 ><a id="Members Of Team 4_1"></a>Members Of Team 4</h2>
 
 | **NAME** | **ROLL-NUMBER** | 
 | :--- | :---: | 
