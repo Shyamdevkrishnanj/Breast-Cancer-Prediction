@@ -1,4 +1,10 @@
 <div align="center">
+
+  ![2](https://user-images.githubusercontent.com/89468615/150691139-26f2816b-b13c-43a6-95f0-8738354e225b.jpg)
+  
+</div>
+
+<div align="center">
   
 # Breast-Cancer-Prediction
 
