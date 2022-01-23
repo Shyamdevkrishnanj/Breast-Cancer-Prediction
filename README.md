@@ -43,3 +43,8 @@ The older a woman is when she has her first child, the greater her risk of breas
 - Women who menstruate for the first time at an early age (before the age of 12 years).
 - Women who go through menopause late (after the age of  55 years).
 - Women who have never had children.
+
+# Objective
+The proposed work can be used to predict the outcome of different technique and suitable technique can be used depending upon requirement. This research is carried out to predict the accuracy. The future research can be carried out to predict the other different parameters and breast cancer research can be categories on basis of other parameters.
+
+
