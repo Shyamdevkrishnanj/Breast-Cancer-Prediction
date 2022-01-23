@@ -4,7 +4,7 @@
 
   </div>
   
-### Trying to predict  whether the  cancer is benign or malignant using LOGISTIC REGRESSION in Python.
+### Trying to predict  whether the  cancer is benign or malignant using  REGRESSION MODELS in Python.
 
 ## Team Members
 | **NAME** | **ROLL-NUMBER** | 
