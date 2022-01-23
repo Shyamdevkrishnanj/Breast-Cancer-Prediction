@@ -29,7 +29,7 @@ Breast cancer (BC) is one of the most common cancers among women worldwide, repr
 
 The early diagnosis of breast cancer can improve the prognosis and chance of survival significantly, as it can promote timely clinical treatment to patients. the correct diagnosis of BC and classification of patients into malignant or benign groups is the subject of much research. Because of its unique advantages in critical features detection from complex BC datasets, machine learning (ML) is widely recognized as the methodology of choice in BC pattern classification and forecast modelling.
 
-## Recommended Screening Guidelines:
+# Recommended Screening Guidelines:
 
 The following are some of the known risk factors for breast cancer. However, most cases of breast cancer cannot be linked to a specific cause. Talk to your doctor about your specific risk:-
 
