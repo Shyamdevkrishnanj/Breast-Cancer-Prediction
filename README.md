@@ -8,7 +8,7 @@
 
 ## Team Members
 | **NAME** | **ROLL-NUMBER** | 
-| :--- | :--- | 
+| --- | --- | 
 | AKARSH S NAIR |AM.EN.U4AIE21008|
 | ALFY ALEX | AM.EN.U4AIE21011   |
 | NAYAN M.K | AM.EN.U4AIE21048   |
@@ -30,7 +30,7 @@ The early diagnosis of breast cancer can improve the prognosis and chance of sur
 The following are some of the known risk factors for breast cancer. However, most cases of breast cancer cannot be linked to a specific cause. Talk to your doctor about your specific risk:-
 
 | **FACTOR** | **DESCRIPTION** |
-|:-- |:--|
+| --- |---|
 |Age| The chance of getting breast cancer increases as women age. Nearly 80 percent of breast cancers are found in women over the age of 50.|
 |Personal history of breast cancer| A woman who has had breast cancer in one breast is at an increased risk of developing cancer in her other breast.|
 |Family history of breast cancer|A woman has a higher risk of breast cancer if her mother, sister or daughter had breast cancer especially at a young age (before 40) and having other relatives with breast cancer may also raise the risk.|
