@@ -42,8 +42,3 @@ The following are some of the known risk factors for breast cancer. However, mos
 
 Other gene changes may raise breast cancer risk as well Childbearing and menstrual history. 
 The older a woman is when she has her first child, the greater her risk of breast cancer.
-
-## Also at higher risk are:
-- Women who menstruate for the first time at an early age (before the age of 12 years).
-- Women who go through menopause late (after the age of  55 years).
-- Women who have never had children.
