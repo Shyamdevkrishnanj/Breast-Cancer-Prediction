@@ -41,4 +41,4 @@ The following are some of the known risk factors for breast cancer. However, mos
 |Genetic factors| Women with certain genetic mutations including changes to the BRCA1 and BRCA2 genes are at higher risk of developing breast cancer during their lifetime.| 
 
 Other gene changes may raise breast cancer risk as well Childbearing and menstrual history. 
-The older a woman is when she has her first child, the greater her risk of breast cancer
+The older a woman is when she has her first child, the greater her risk of breast cancer.
