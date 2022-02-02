@@ -12,6 +12,8 @@
   
 ### Trying to predict  whether the  cancer is benign or malignant using  REGRESSION MODELS in Python.
 
+<div align="center">
+  
 ## Team Members
 | **NAME** | **ROLL-NUMBER** | 
 | --- | --- | 
@@ -19,7 +21,8 @@
 | ALFY ALEX | AM.EN.U4AIE21011   |
 | NAYAN M.K | AM.EN.U4AIE21048   |
 | SHYAMDEV KRISHNAN J | AM.EN.U4AIE21060 |
-| SANTHOSH MAMIDISETTI | AM.EN.U4AIE21042 | 
+| SANTHOSH MAMIDISETTI | AM.EN.U4AIE21042 |
+  </div>
 
 # Objective
 The proposed work can be used to predict the outcome of different technique and suitable technique can be used depending upon requirement. This research is carried out to predict the accuracy. The future research can be carried out to predict the other different parameters and breast cancer research can be categories on basis of other parameters.
